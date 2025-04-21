@@ -22,11 +22,11 @@
 
 🏆 GitHub Trophies :
 ---
-[![S4NA's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S4NA&theme=darkhub&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![S4NA's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S4NAAAA&theme=darkhub&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 📈 GitHub Activity Graph :
 ---
-[![S4NA's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=S4NA&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![S4NA's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=S4NAAAA&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 📧 Contact Me :
 ---
