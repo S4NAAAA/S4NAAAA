@@ -20,14 +20,6 @@
 ---
 [![S4NA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4NA&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-🏆 GitHub Trophies :
----
-[![S4NA's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S4NAAAA&theme=darkhub&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-📈 GitHub Activity Graph :
----
-[![S4NA's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=S4NAAAA&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 📧 Contact Me :
 ---
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s4naleaks)
