@@ -3,7 +3,7 @@
 🧽 About Me :
 ---
 [🌐・My Website](https://s4na.fr)
-[📧・Discord : s4na.re](https://discord.gg/s4naleaks)
+[📧・Discord : s4na.re](https://discord.gg/s4nadev)
 
 🍜 Socials :
 ---
